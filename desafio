@@ -1,0 +1,9 @@
+Neste projeto estudei conceitos básicos de segurança da informação utilizando como referência o Kali Linux, o Medusa, o Metasploitable 2 e o DVWA. O objetivo foi compreender como essas ferramentas são utilizadas em ambientes de laboratório para identificar vulnerabilidades e entender a importância da proteção de sistemas e informações.
+
+Durante os estudos conheci o Kali Linux, uma distribuição Linux voltada para testes de segurança que reúne diversas ferramentas utilizadas por profissionais da área. Também aprendi sobre o Medusa, uma ferramenta usada para auditorias de credenciais em ambientes autorizados. Além disso, estudei o Metasploitable 2, uma máquina virtual criada para treinamento com vulnerabilidades intencionais, e o DVWA (Damn Vulnerable Web Application), uma aplicação desenvolvida para o aprendizado de segurança em aplicações web.
+
+As principais vulnerabilidades estudadas foram o uso de senhas fracas, a reutilização de senhas em diferentes serviços, sistemas desatualizados, configurações inadequadas e a ausência de autenticação em múltiplos fatores (MFA). Essas falhas podem facilitar acessos não autorizados e aumentar o risco de incidentes de segurança.
+
+Como medidas de mitigação, aprendi que é importante utilizar senhas fortes e diferentes para cada serviço, manter sistemas e aplicações sempre atualizados, habilitar a autenticação em múltiplos fatores (MFA), limitar tentativas de login, monitorar os registros de acesso, remover serviços desnecessários e realizar backups periódicos. Essas práticas ajudam a reduzir vulnerabilidades e aumentar a segurança dos sistemas.
+
+devido a limitaçoes do hardware atual nao consegui fazer um ambiente de laboratorio especializado para este desafio
